@@ -1,3 +1,3 @@
-- 👋 Hi, I’m 殺意已决
+- 👋 Hi, I’m Seaman
 - 🌱 I’m currently learning with GO
 - 📫 You can contact me through WeChat, My WeChatID is ggw1315

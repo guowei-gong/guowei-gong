@@ -3,7 +3,7 @@
 I am a gopher from China. I like open source and help others.
 
 - 🌱 I’m currently learning Operating System & Kubernetes & Go, and want to learn everything interesting.
-- 🤔 I want to make a go-kratos demo project. I call it [yuumi](https://github.com/guowei-gong/yuumi-movie).
+- 🤔 I want to make a go-kratos demo project.
 - ❤️ I like going 🏊‍♂️, sleeping in 🛌 and watching 📺 [ACGN](<https://en.wikipedia.org/wiki/ACG_(subculture)>).
 - 💬 Be free to ask me about anything [here](https://github.com/guowei-gong/guowei-gong/issues).
 

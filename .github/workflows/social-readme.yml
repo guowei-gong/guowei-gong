@@ -1,0 +1,16 @@
+name: Social Readme
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-social:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: guowei-gong/README.md@main
+        with:
+          blog_rss_link: https://gongguowei.com/atom.xml
+          douban_name: gongguowei01

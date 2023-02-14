@@ -69,14 +69,7 @@ Still Gathering Statistics...
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
 
-<!-- START_SECTION:blog -->
-* <a href='https://guowei-gong.github.io/posts/algorithm/移除链表中的元素为何需要一个 head 的副本' target='_blank'>移除链表中的元素为何需要一个 head 的副本</a> - 2023-02-14
-* <a href='https://guowei-gong.github.io/posts/algorithm/统计一致字符串的数目' target='_blank'>位运算符优化计数程序</a> - 2023-02-14
-* <a href='https://guowei-gong.github.io/posts/computer_architecture/对性能的理解' target='_blank'>从CPU的角度考虑性能优化</a> - 2023-02-14
-* <a href='https://guowei-gong.github.io/posts/docker/5分钟内容器化您的Go程序' target='_blank'>多阶段构建优化您的 Go 程序镜像</a> - 2023-02-14
-* <a href='https://guowei-gong.github.io/posts/docker/Docker发家史，诠释我要打十个' target='_blank'>Docker发家史，诠释我要打十个</a> - 2023-02-14
-<!-- END_SECTION:blog -->
-
+🌌 **Douban**
 <!-- START_SECTION:douban -->
 * <a href='https://book.douban.com/subject/25815142/' target='_blank'>想读游戏引擎架构</a> - 2023-01-11
 * <a href='https://book.douban.com/subject/26912767/' target='_blank'>最近在读深入理解计算机系统（原书第3版）</a> 🌟🌟🌟🌟☆ 推荐- 2023-01-11

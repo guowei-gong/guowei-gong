@@ -10,7 +10,7 @@ jobs:
   update-social:
     runs-on: ubuntu-latest
     steps:
-      - uses: guowei-gong/guowei-gong@main
+      - uses: zylele/social-readme@master
         with:
           blog_rss_link: https://gongguowei.com/atom.xml
           douban_name: gongguowei01

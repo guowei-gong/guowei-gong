@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <a href="https://img-blog.csdnimg.cn/45e96e30848247c2aa45b01495a11ad9.png" target="_blank" alt="QQ" title="QQ">
+  <a href="https://github.com/guowei-gong/guowei-gong/blob/main/0EBF84432918684C55BCC3F7407352A6.png" target="_blank" alt="QQ" title="QQ">
     <img src="https://img-blog.csdnimg.cn/66ee6d055d304638a17a18e4b682916f.png#pic_center" width="30px"/>
   </a>
   &emsp;

@@ -36,22 +36,6 @@
   &emsp;
   <br><br>
   <strong>Check out my work below!</strong>
-  <br><br>
-  <a href="https://github.com/Charmve">
-    <img src="https://badges.strrl.dev/visits/Charmve/Charmve?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/Charmve">
-    <img src="https://badges.strrl.dev/years/Charmve?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/Charmve?tab=repositories">
-    <img src="https://badges.strrl.dev/repos/Charmve?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://gist.github.com/Charmve">
-    <img src="https://badges.strrl.dev/gists/Charmve?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/Charmve">
-    <img src="https://badges.strrl.dev/commits/monthly/Charmve?style=flat-square&color=black&logo=github">
-  </a>
 </p>
 
 <h2></h2>

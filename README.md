@@ -56,7 +56,7 @@
 
 <h2></h2>
 
-<img align="right" alt="GIF" src="https://img-blog.csdnimg.cn/23c92b2e678a426e88a42f2650485ee1.gif#pic_center" height="150" width="550"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img align="right" alt="GIF" src="https://img-blog.csdnimg.cn/eb44555f29fe4621a0f9d4df7b016998.gif#pic_center" height="150" width="150"> &nbsp;&nbsp;&nbsp;&nbsp;
 
 **Tools&Platform**
 

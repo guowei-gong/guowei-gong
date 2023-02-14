@@ -12,5 +12,5 @@ jobs:
     steps:
       - uses: zylele/social-readme@master
         with:
-          blog_rss_link: https://gongguowei.com/atom.xml
+          blog_rss_link: https://guowei-gong.github.io/atom.xml
           douban_name: gongguowei01

@@ -30,8 +30,8 @@
     <img src="https://img-blog.csdnimg.cn/88555f6585ca4f76bbde1dc665a3bc87.png#pic_center" width="30px"/>
   </a>
   &emsp;
-  <a href="https://www.douban.com/people/gongguowei01/" target="_blank" alt="Douban" title="Douban">
-    <img src="https://img-blog.csdnimg.cn/b1152777de834dbb8a3aa9004eba71f1.png#pic_center" width="30px"/>
+  <a href="https://gongguowei.com" target="_blank" alt="blog" title="blog">
+    <img src="https://img-blog.csdnimg.cn/f0347769f9704a1ea3c21dff7357ad75.png#pic_center" width="30px"/>
   </a>
   &emsp;
   <br><br>
@@ -68,3 +68,9 @@ Still Gathering Statistics...
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
+
+<!-- START_SECTION:blog -->
+<!-- END_SECTION:blog -->
+
+<!-- START_SECTION:douban -->
+<!-- END_SECTION:douban -->

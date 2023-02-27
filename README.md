@@ -61,14 +61,6 @@
     
 <br>
 
- <!-- waka-box start -->
-📊 Weekly development breakdown
-```text
-Still Gathering Statistics...
-```
-<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
-<!-- waka-box end -->
-
 🌌 **Douban**
 <!-- START_SECTION:douban -->
 * <a href='https://book.douban.com/subject/25815142/' target='_blank'>想读游戏引擎架构</a> - 2023-01-11

@@ -61,11 +61,41 @@
     
 <br>
 
-🌌 **Douban**
+🌌 **删繁就简**
 <!-- START_SECTION:douban -->
-* <a href='https://book.douban.com/subject/25815142/' target='_blank'>想读游戏引擎架构</a> - 2023-01-11
-* <a href='https://book.douban.com/subject/26912767/' target='_blank'>最近在读深入理解计算机系统（原书第3版）</a> 🌟🌟🌟🌟☆ 推荐- 2023-01-11
-* <a href='https://book.douban.com/subject/35231266/' target='_blank'>想读MySQL是怎样运行的</a> - 2023-01-11
-* <a href='https://book.douban.com/subject/33408234/' target='_blank'>读过大话计算机</a> - 2023-01-11
-* <a href='https://book.douban.com/subject/30486354/' target='_blank'>读过深入浅出Docker</a> 🌟🌟🌟🌟🌟 力荐- 2023-01-11
+微积分和线性代数
+
+数据结构与算法
+
+软件工程
+- MIT 6.031: Software Construction
+
+
+计算机系统导论
+- CMU CS15213: CSAPP
+
+
+体系结构入门
+- Coursera: Nand2Tetris
+
+
+体系结构进阶
+- CS61C: Great Ideas in Computer Architecture
+
+
+操作系统
+- NJU OS: Operating System Design and Implementation
+
+
+数据库原理
+
+
+计算机网络
+- USTC Computer Networking:A Top-Down Approach
+
+
+并行与分布式系统
+- MIT 6.824: Distributed System
+
+- Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
 <!-- END_SECTION:douban -->

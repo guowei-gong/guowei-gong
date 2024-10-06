@@ -63,39 +63,5 @@
 
 🌌 **删繁就简**
 <!-- START_SECTION:douban -->
-微积分和线性代数
 
-数据结构与算法
-
-软件工程
-- MIT 6.031: Software Construction
-
-
-计算机系统导论
-- CMU CS15213: CSAPP
-
-
-体系结构入门
-- Coursera: Nand2Tetris
-
-
-体系结构进阶
-- CS61C: Great Ideas in Computer Architecture
-
-
-操作系统
-- NJU OS: Operating System Design and Implementation
-
-
-数据库原理
-
-
-计算机网络
-- USTC Computer Networking:A Top-Down Approach
-
-
-并行与分布式系统
-- MIT 6.824: Distributed System
-
-- Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
 <!-- END_SECTION:douban -->
